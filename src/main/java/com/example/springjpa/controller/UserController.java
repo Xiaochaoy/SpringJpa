@@ -78,6 +78,11 @@ public class UserController {
 
     /*
     {
+        "op":"replace",
+        "path":"/email",
+        "value":"afafqwr"
+    }
+    {
         "op":"add",
         "path":"/email/0",
         "value":"Bread"
